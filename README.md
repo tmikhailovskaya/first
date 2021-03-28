@@ -1,5 +1,6 @@
 # first
 
-Authosrs:
+Автори:
 - Borodin M.
 - Mykhailovskaya T.
+- Groshevoy M.
