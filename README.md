@@ -2,4 +2,4 @@
 
 Authosrs:
 - Borodin M.
-- Mikhailovskaya T.
+- Mykhailovskaya T.
